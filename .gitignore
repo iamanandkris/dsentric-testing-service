@@ -1,0 +1,25 @@
+# Build output
+/target/
+/out/
+
+# Scala / Bloop / Metals
+/.bloop/
+/.metals/
+
+# IDE files
+/.idea/
+/.vscode/
+*.iml
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment overrides
+.env
+.env.*
+
+# Maven wrapper cache if added later
+.mvn/wrapper/maven-wrapper.jar
